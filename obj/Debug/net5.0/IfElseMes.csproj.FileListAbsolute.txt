@@ -1,0 +1,16 @@
+C:\ams\1ano\semestre2\EstruturaSwitchCase\ifelsemes\bin\Debug\net5.0\IfElseMes.exe
+C:\ams\1ano\semestre2\EstruturaSwitchCase\ifelsemes\bin\Debug\net5.0\IfElseMes.deps.json
+C:\ams\1ano\semestre2\EstruturaSwitchCase\ifelsemes\bin\Debug\net5.0\IfElseMes.runtimeconfig.json
+C:\ams\1ano\semestre2\EstruturaSwitchCase\ifelsemes\bin\Debug\net5.0\IfElseMes.runtimeconfig.dev.json
+C:\ams\1ano\semestre2\EstruturaSwitchCase\ifelsemes\bin\Debug\net5.0\IfElseMes.dll
+C:\ams\1ano\semestre2\EstruturaSwitchCase\ifelsemes\bin\Debug\net5.0\ref\IfElseMes.dll
+C:\ams\1ano\semestre2\EstruturaSwitchCase\ifelsemes\bin\Debug\net5.0\IfElseMes.pdb
+C:\ams\1ano\semestre2\EstruturaSwitchCase\ifelsemes\obj\Debug\net5.0\IfElseMes.csproj.AssemblyReference.cache
+C:\ams\1ano\semestre2\EstruturaSwitchCase\ifelsemes\obj\Debug\net5.0\IfElseMes.GeneratedMSBuildEditorConfig.editorconfig
+C:\ams\1ano\semestre2\EstruturaSwitchCase\ifelsemes\obj\Debug\net5.0\IfElseMes.AssemblyInfoInputs.cache
+C:\ams\1ano\semestre2\EstruturaSwitchCase\ifelsemes\obj\Debug\net5.0\IfElseMes.AssemblyInfo.cs
+C:\ams\1ano\semestre2\EstruturaSwitchCase\ifelsemes\obj\Debug\net5.0\IfElseMes.csproj.CoreCompileInputs.cache
+C:\ams\1ano\semestre2\EstruturaSwitchCase\ifelsemes\obj\Debug\net5.0\IfElseMes.dll
+C:\ams\1ano\semestre2\EstruturaSwitchCase\ifelsemes\obj\Debug\net5.0\ref\IfElseMes.dll
+C:\ams\1ano\semestre2\EstruturaSwitchCase\ifelsemes\obj\Debug\net5.0\IfElseMes.pdb
+C:\ams\1ano\semestre2\EstruturaSwitchCase\ifelsemes\obj\Debug\net5.0\IfElseMes.genruntimeconfig.cache
